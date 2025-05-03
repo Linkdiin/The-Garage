@@ -2,7 +2,7 @@
 /*
 Theme Name: ITSolve
 Theme URI: https://thegarage.github.io/index.php
-Author: Your Name
+Author: Niloy Chakroborty 
 Author URI: https://thegarage.github.io/index.php
 Description: A custom IT service provider WordPress theme
 Version: 1.0
